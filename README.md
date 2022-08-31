@@ -21,6 +21,8 @@
 <p>- Geramos um arquivo em excel com as moedas solicitadas com a cotação de todas as datas entre a data inicial e data final.</p>
 
 <p> Abaixo podemos ver como fica o programa final gerado pelo Tkinter e o excel gerado por ele. </p>
-![Ferramenta_Cotacao](https://user-images.githubusercontent.com/104008210/187761354-d25d5b13-2681-459d-acdf-8e21fc0eb490.PNG)
+
+![Ferramenta_Cotacao](https://user-images.githubusercontent.com/104008210/187762090-480d42ca-8eb9-468a-a6dd-fb0abf4732b7.PNG)
+
 
 ![Arquivo_Gerado_Cotacao](https://user-images.githubusercontent.com/104008210/187761642-e1e017d8-bda5-4ba0-bc0a-c85f95ebe2e6.PNG)
